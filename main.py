@@ -9,3 +9,4 @@
 # bind l noclip
 # i need bullets
 
+print("Hello")
